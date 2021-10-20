@@ -1,0 +1,30 @@
+.container {
+    max-width: 1170px;
+    width: 100%;
+    background-color:blue ;
+}
+
+.img {
+    float:left;
+    margin:5px;
+    position: relative;
+}
+.footer list {
+    float:right;
+}
+.footer list li {
+    color: white;
+    line-height: 20px;
+
+}
+.selected {
+    font-family: lucinda grande;
+    font-size: 16px;
+}
+
+
+.p {
+    font-family:serif;
+    font-size:14px;
+    text-align: center;
+}
